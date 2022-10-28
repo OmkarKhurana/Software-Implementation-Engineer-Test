@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\bin\Debug\Software Implementation Engineer Test.exe.config
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\bin\Debug\Software Implementation Engineer Test.exe
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\bin\Debug\Software Implementation Engineer Test.pdb
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.exe
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.pdb
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Software Implementation Engineer Test\Software Implementation Engineer Test\Software Implementation Engineer Test\obj\Debug\Software Implementation Engineer Test.csproj.CopyComplete
